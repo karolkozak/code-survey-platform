@@ -1,0 +1,10 @@
+.idea/
+
+db/
+node_modules/
+
+config.js
+controllers.js
+index.html
+karkoz@s31.mydevil.net
+obsolete_code.js
