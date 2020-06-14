@@ -1,0 +1,23 @@
+.Absolute-Survey-Page {
+    min-height: 90vh;
+    background-color: #282c34;
+    text-align: center;
+    padding-top: 60px;
+}
+
+.Code-Container {
+    text-align: center;
+}
+
+.Assessment {
+    margin-right: 10px;
+    margin-bottom: 15px;
+}
+
+.Label {
+    display: inline;
+    margin-right: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: large;
+}
